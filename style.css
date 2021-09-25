@@ -1,0 +1,69 @@
+
+ .copyright{ 
+    position: relative;
+     bottom: 25px;
+     /* margin: 0px; */
+     
+} 
+
+
+.div{
+    margin-left: 50px;
+    
+}
+.expression{
+    display: block;
+    font-family: Vardana, Arial, Helvetica, sans-serif;
+    font-size:medium;
+    font-style: normal;
+    color: #660000;
+    /*letter-spacing: 1px;*/
+    margin-top: 16px;
+    margin-bottom: 16px; 
+
+}
+.car{
+    display: inline-block;
+    font-family: Vardana, Arial, Helvetica, sans-serif;
+    font-size:medium;
+    font-style: normal;
+    color: #660000;
+   /* letter-spacing: 1px;*/
+
+}
+.car-para{
+    display: inline-block;
+    font-family: Vardana, Arial, Helvetica, sans-serif;
+    font-size:medium;
+    font-style: normal;
+    color: #660000;
+    margin-bottom: 0px;
+
+}
+.boolean{
+    margin-top: 0px;
+    margin-left: 30px;
+    margin-bottom: 16px;
+}
+.expression-black{
+    display: block;
+    font-family: Vardana, Arial, Helvetica, sans-serif;
+    font-size:medium;
+    font-style: normal;
+    color: black;
+    font-weight:bolder;
+    /* letter-spacing: 1px; */
+    margin-top: 16px;
+    margin-bottom: 16px; 
+}
+.cargo{
+    display: inline-block;
+    font-family: Vardana, Arial, Helvetica, sans-serif;
+    font-size:medium;
+    font-style: normal;
+    color: #660000;
+   /* letter-spacing: 1px;*/
+   /* margin-top: 8px; */
+   /* margin-bottom: 8px; */
+   margin-left: 16px;
+}
